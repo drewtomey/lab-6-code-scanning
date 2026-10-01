@@ -1,9 +1,9 @@
 name: Security CI Checks
 
 on:
-  push
+  push:
     branches:
-  - main
+      - main
 
 jobs:
   sast_scan:
