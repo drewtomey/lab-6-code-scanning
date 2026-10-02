@@ -1,4 +1,4 @@
-name: Security CI Checks
+name: Security CI Checks # name
 
 on:
   push:
